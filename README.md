@@ -1,2 +1,2 @@
-# primeiro_projeto
-Primeiro Projeto
+# Primeiro Projeto
+Primeiro Projeto em Python.
